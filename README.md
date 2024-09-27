@@ -6,6 +6,7 @@ I live in **Brazil** and I am constantly updating myself on new technologies.
 
 ## ⭐ Skill's
   - C/C++
+  - Rust
   - C#
   - Reverse Engineering
   - Typescript

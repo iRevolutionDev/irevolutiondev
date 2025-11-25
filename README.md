@@ -86,7 +86,7 @@ MOOD:      Stealth Mode
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=irevolutiondev&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%" alt="streak graph" />
+  <img src="https://github-readme-streak-stats-beryl-eta.vercel.app?user=irevolutiondev&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%" alt="streak graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irevolutiondev&theme=radical" width="50%" alt="repos per language" />
   </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irevolutiondev&theme=radical" width="100%" alt="profile details" />

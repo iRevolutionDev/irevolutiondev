@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/ihvJ6TZKC1oAAAAd/synthwave.gif" width="100%" />
+  <img src="assets/retrowave-synthwave.gif" width="100%" />
   
   <h1>Revolution</h1>
   

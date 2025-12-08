@@ -8,11 +8,11 @@
   </a>
 
   <p>
-    <a href="https://github.com/irevolutiondev">
-      <img src="https://komarev.com/ghpvc/?username=irevolutiondev&color=ff57c1&style=flat-square&label=VISITORS" alt="Profile views" />
+    <a href="https://github.com/revolutionxk">
+      <img src="https://komarev.com/ghpvc/?username=revolutionxk&color=ff57c1&style=flat-square&label=VISITORS" alt="Profile views" />
     </a>
-    <a href="https://github.com/irevolutiondev?tab=followers">
-      <img src="https://img.shields.io/github/followers/irevolutiondev?style=flat-square&color=00f0ff&label=FOLLOWERS" alt="Followers" />
+    <a href="https://github.com/revolutionxk?tab=followers">
+      <img src="https://img.shields.io/github/followers/revolutionxk?style=flat-square&color=00f0ff&label=FOLLOWERS" alt="Followers" />
     </a>
   </p>
 </div>
@@ -76,25 +76,25 @@ MOOD:      Stealth Mode
 
 | Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| [**roblox-modloader**](https://github.com/iRevolutionDev/roblox-modloader) | `C++` | Native mod loader revolutionizing Roblox Studio development. |
-| [**Sirius**](https://github.com/iRevolutionDev/Sirius) | `C++` | Lightweight multi-platform ImGui rendering framework. |
-| [**steam-hour-farmer**](https://github.com/iRevolutionDev/steam-hour-farmer) | `Rust` | Efficient Steam playtime farming tool. |
-| [**labx**](https://github.com/iRevolutionDev/labx) | `Kotlin` | Advanced Android Processing IDE. |
-| [**marvel-aspnet**](https://github.com/iRevolutionDev/marvel-aspnet) | `C#` | Clean Architecture ASP.NET Core app consuming Marvel API. |
+| [**roblox-modloader**](https://github.com/revolutionxk/roblox-modloader) | `C++` | Native mod loader revolutionizing Roblox Studio development. |
+| [**Sirius**](https://github.com/revolutionxk/Sirius) | `C++` | Lightweight multi-platform ImGui rendering framework. |
+| [**steam-hour-farmer**](https://github.com/revolutionxk/steam-hour-farmer) | `Rust` | Efficient Steam playtime farming tool. |
+| [**labx**](https://github.com/revolutionxk/labx) | `Kotlin` | Advanced Android Processing IDE. |
+| [**marvel-aspnet**](https://github.com/revolutionxk/marvel-aspnet) | `C#` | Clean Architecture ASP.NET Core app consuming Marvel API. |
 
 ### Telemetry Deck
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats-beryl-eta.vercel.app?user=irevolutiondev&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%" alt="streak graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irevolutiondev&theme=radical" width="50%" alt="repos per language" />
+  <img src="https://github-readme-streak-stats-beryl-eta.vercel.app?user=revolutionxk&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f0ff&currStreakLabel=00f0ff" width="49%" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=revolutionxk&theme=radical" width="50%" alt="repos per language" />
   </br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irevolutiondev&theme=radical" width="100%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revolutionxk&theme=radical" width="100%" alt="profile details" />
   
 </div>
 
 ### Visual Diagnostics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irevolutiondev&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=revolutionxk&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
 </p>
